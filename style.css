@@ -1,0 +1,10 @@
+#buttons {
+    width: 100vh;
+    height: 100vh;
+    display: grid;
+    grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+}
+
+#buttons > * {
+    font-size: 54px;
+}
